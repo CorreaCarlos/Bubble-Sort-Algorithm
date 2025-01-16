@@ -88,7 +88,7 @@ programa
 	funcao cadastra_automagicamente()
 	{
 		limpa()
-		escreva("Gerando valores altomagicamente...\n\n")
+		escreva("Gerando valores automagicamente...\n\n")
 		
 		para(ponteiro = 0; ponteiro < quant; ponteiro++)
 		{
@@ -187,8 +187,8 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2536; 
- * @DOBRAMENTO-CODIGO = [8, 66, 87, 106, 116, 138, 168];
+ * @POSICAO-CURSOR = 1475; 
+ * @DOBRAMENTO-CODIGO = [8, 66, 106, 116, 138, 168];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {idade, 5, 9, 5}-{nome, 6, 8, 4};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
